@@ -10,15 +10,15 @@ The bamazon application has two available modes.
 The first one is the Customer version that allows a
 customer to select an item from the available items and
 purchase as many as they wish.  This can be done by entering
-```node bamazonCustomer.js``` in the terminal.
-![customerStart](/images/customerStart.png)
+```node bamazonCustomer.js``` in the terminal.  
+![customerStart](/images/customerStart.png)  
 The customer then enters the ID of the item they wish to purchase
-followed by the quantity.
-![customerBuy](/images/customerBuy.png)
+followed by the quantity.  
+![customerBuy](/images/customerBuy.png)  
 This will give them the total cost for their purchase.
 If the customer wishes to buy more items than the store has in stock
-they will receive an error and the order will be canceled.
-![customerInsufficient](/images/customerInsufficient.png)
+they will receive an error and the order will be canceled.  
+![customerInsufficient](/images/customerInsufficient.png)  
 
 ## What it uses
 
